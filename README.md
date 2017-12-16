@@ -1,7 +1,7 @@
 
 ## App
 
-This app is a litle demo of an app to manager the employers of a litle enterprise.
+This app is a litle demo of an app to manage the employers of a litle enterprise.
 
 ## Tech used
 
